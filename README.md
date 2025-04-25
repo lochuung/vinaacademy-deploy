@@ -22,7 +22,7 @@ The project is configured with the following services:
 
 ```bash
 # Clone this deployment repository
-git clone [your-deployment-repo-url] vinaacademy-deploy
+git clone https://github.com/lochuung/vinaacademy-deploy.git vinaacademy-deploy
 cd vinaacademy-deploy
 
 # Clone the backend and frontend repositories
