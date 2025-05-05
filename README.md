@@ -259,7 +259,3 @@ To backup the PostgreSQL database:
 ```bash
 docker-compose exec postgres pg_dump -U postgres vinaacademy > backup.sql
 ```
-
-## License
-
-[Your License Information]
