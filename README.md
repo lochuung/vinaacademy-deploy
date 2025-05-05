@@ -158,7 +158,7 @@ Update your `.env` file with production values:
 ```
 # Frontend configuration
 FRONTEND_URL=https://vinaacademy.huuloc.id.vn
-NEXT_PUBLIC_API_URL=https://vinaacademy.huuloc.id.vn/api/v1
+NEXT_PUBLIC_API_URL=http://backend:8080/api/v1
 NEXT_PUBLIC_SITE_URL=https://vinaacademy.huuloc.id.vn
 ```
 
