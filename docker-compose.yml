@@ -58,6 +58,8 @@ services:
       FRONTEND_URL: ${FRONTEND_URL:-http://localhost:3000}
       GMAIL_USERNAME: ${GMAIL_USERNAME}
       GMAIL_PASSWORD: ${GMAIL_PASSWORD}
+      GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID}
+      GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET}
       SPRING_PROFILES_ACTIVE: prd
     volumes:
       - uploads_data:/vinaacademy/uploads
